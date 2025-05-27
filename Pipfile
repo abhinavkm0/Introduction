@@ -9,6 +9,10 @@ openai = "*"
 python-dotenv = "*"
 pydantic = "*"
 nbdime = "*"
+pypdf = "*"
+faiss-cpu = "*"
+numpy = "*"
+tiktoken = "*"
 
 [dev-packages]
 
