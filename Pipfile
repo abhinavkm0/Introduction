@@ -8,6 +8,7 @@ ipykernel = "*"
 openai = "*"
 python-dotenv = "*"
 pydantic = "*"
+nbdime = "*"
 
 [dev-packages]
 
