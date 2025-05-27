@@ -13,6 +13,7 @@ pypdf = "*"
 faiss-cpu = "*"
 numpy = "*"
 tiktoken = "*"
+openai-streaming = "*"
 
 [dev-packages]
 
