@@ -11,9 +11,9 @@
 5. Implement Assistant
 6. Response API
 7. Chaining of response
-8. Direct using OpenAI, Basic RAG setup (chat on top of PDF)
 
 ### Concepts
 
-1. Learn all Chunking & Retrieval Strategy
-2. Basic & Advanced Prompting Techniques
+1. Using OpenAI + VectorDatabase create basic RAG setup (chat on top of PDF)
+2. Learn all Chunking & Retrieval Strategy
+3. Basic & Advanced Prompting Techniques
