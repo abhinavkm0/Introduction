@@ -2,7 +2,7 @@
 
 > Python brush up
 
-### OpenAI
+### OpenAI ✅
 
 1. Chat Completion API
 2. Implement Structured Output
@@ -12,8 +12,10 @@
 6. Response API
 7. Chaining of response
 
+[Notebook](../../notebooks/OpenAI_Introduction.ipynb)
+
 ### Concepts
 
-1. Using OpenAI + VectorDatabase create basic RAG setup (chat on top of PDF)
-2. Learn all Chunking & Retrieval Strategy
-3. Basic & Advanced Prompting Techniques
+1. Using OpenAI + VectorDatabase create basic RAG setup (chat on top of PDF) - [Notebook](../../notebooks/Simple_RAG_Application.ipynb) ✅
+2. Learn all Chunking & Retrieval Strategy ✅
+3. Basic & Advanced Prompting Techniques ✅
