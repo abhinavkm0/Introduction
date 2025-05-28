@@ -8,6 +8,10 @@
 - [Chunking Methods](./notebooks/Chunking.ipynb)
 - [Useful links](./assets/md/Resources.md)
 
+## Project Specific
+
+- [Amplity Chatbot](./assets/md/Amplity_Starter_Kit.md)
+
 ## Setup
 
 Clone the repo
