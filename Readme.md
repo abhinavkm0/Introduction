@@ -1,9 +1,27 @@
 # Documentation
 
-## Contents
+## Table of Contents
 
-1. [Environment Setup](./assets/md/Getting_Started.md)
+- [Environment Setup](./assets/md/Getting_Started.md)
+- [Quality of Life Addons](./assets/md/Quality_Of_Life.md)
+- [OpenAI Examples](./assets/md/OpenAI_Check_List.md)
 
-2. [QoL Addons](./assets/md/Quality_Of_Life.md)
+## Setup
 
-3. [OpenAI Examples](./assets/md/OpenAI_Check_List.md)
+Clone the repo
+
+```
+git clone https://github.com/abhinavkm0/Introduction
+```
+
+Install pipenv
+
+```
+python -m pip install pipenv
+```
+
+Install packages
+
+```
+pipenv install
+```
