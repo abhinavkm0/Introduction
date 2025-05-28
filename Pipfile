@@ -17,6 +17,8 @@ openai-streaming = "*"
 nltk = "*"
 langchain = "*"
 langchain-text-splitters = "*"
+langchain-experimental = "*"
+langchain-openai = "*"
 
 [dev-packages]
 
