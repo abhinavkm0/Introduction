@@ -15,6 +15,8 @@ numpy = "*"
 tiktoken = "*"
 openai-streaming = "*"
 nltk = "*"
+langchain = "*"
+langchain-text-splitters = "*"
 
 [dev-packages]
 
