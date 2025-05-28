@@ -6,6 +6,7 @@
 - [Quality of Life](./assets/md/Quality_Of_Life.md)
 - [OpenAI Examples](./assets/md/OpenAI_Check_List.md)
 - [Chunking Methods](./notebooks/Chunking.ipynb)
+- [Useful links](./assets/md/Resources.md)
 
 ## Setup
 
