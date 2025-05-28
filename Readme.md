@@ -3,8 +3,9 @@
 ## Table of Contents
 
 - [Environment Setup](./assets/md/Getting_Started.md)
-- [Quality of Life Addons](./assets/md/Quality_Of_Life.md)
+- [Quality of Life](./assets/md/Quality_Of_Life.md)
 - [OpenAI Examples](./assets/md/OpenAI_Check_List.md)
+- [Chunking Methods](./notebooks/Chunking.ipynb)
 
 ## Setup
 
