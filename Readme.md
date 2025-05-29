@@ -10,7 +10,8 @@
 
 ## Project Specific
 
-- [Amplity Chatbot](./assets/md/Amplity_Starter_Kit.md)
+- [Amplity Chatbot](./assets/md/Amplity_Starter_Kit.mdiC@4u$
+)
 
 ## Setup
 
