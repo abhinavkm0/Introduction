@@ -22,7 +22,7 @@ You can configure your .zshrc as you wish
 nano ~/.zshrc
 ```
 
-![alt text](../images/zsh_setup.png)
+![alt text](../assets/images/zsh_setup.png)
 
 ## Git Aliases
 

@@ -24,14 +24,14 @@ wsl --set-default-version 2
 
 Now you can enter wsl to open a shell
 
-![alt text](../images/wsl2_shell.png)
+![alt text](../assets//images/wsl2_shell.png)
 
 ### Docker Desktop
 
 Download and install [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 
 Now, enable WSL2 integration 
-![alt text](../images/docker_wsl2.png)
+![alt text](../assets//images/docker_wsl2.png)
 
 ### Create SSH Key
 
@@ -49,7 +49,7 @@ ssh-add ~/.ssh/file_name
 
 Now copy contents of the `.pub` file to GitHub SSH Keys
 
-![alt text](../images/ssh_key.png)
+![alt text](../assets//images/ssh_key.png)
 
 
 ### Install pyenv

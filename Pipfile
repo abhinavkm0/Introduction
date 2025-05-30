@@ -21,6 +21,7 @@ langchain-experimental = "*"
 langchain-openai = "*"
 pinecone = {extras = ["grpc", "asyncio"], version = "*"}
 mkdocs-material = "*"
+mkdocs-exclude = "*"
 
 [dev-packages]
 

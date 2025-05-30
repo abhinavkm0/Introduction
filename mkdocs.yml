@@ -17,7 +17,8 @@ plugins:
   - search
   - blog
   - tags
-
-
+  - exclude:
+        glob:
+          - docs/assets/md/*
 
 
