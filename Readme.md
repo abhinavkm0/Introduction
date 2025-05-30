@@ -1,17 +1,7 @@
 # Documentation
 
-## Table of Contents
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fabhinavkm0.github.io%2FIntroduction%2F&up_message=%E2%9C%85&up_color=green&down_message=%E2%9D%8C&down_color=red&style=flat-square&label=Docs&labelColor=grey&color=lightgreen&link=https%3A%2F%2Fabhinavkm0.github.io%2FIntroduction%2F)
 
-- [Environment Setup](./assets/md/Getting_Started.md)
-- [Quality of Life](./assets/md/Quality_Of_Life.md)
-- [OpenAI Examples](./assets/md/OpenAI_Check_List.md)
-- [Chunking Methods](./notebooks/Chunking.ipynb)
-- [Useful links](./assets/md/Resources.md)
-
-## Project Specific
-
-- [Amplity Chatbot](./assets/md/Amplity_Starter_Kit.mdiC@4u$
-)
 
 ## Setup
 
