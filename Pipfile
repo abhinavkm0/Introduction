@@ -19,6 +19,7 @@ langchain = "*"
 langchain-text-splitters = "*"
 langchain-experimental = "*"
 langchain-openai = "*"
+pinecone = {extras = ["grpc", "asyncio"], version = "*"}
 
 [dev-packages]
 
