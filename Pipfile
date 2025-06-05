@@ -22,6 +22,7 @@ langchain-openai = "*"
 pinecone = {extras = ["grpc", "asyncio"], version = "*"}
 mkdocs-material = "*"
 mkdocs-exclude = "*"
+nicegui = "*"
 
 [dev-packages]
 ipykernel = "*"
